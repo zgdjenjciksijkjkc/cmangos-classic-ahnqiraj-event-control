@@ -1,0 +1,8 @@
+autobak/
+mangosd.conf
+*.bak
+*.log
+*.sql.gz
+*.zip
+.DS_Store
+Thumbs.db
